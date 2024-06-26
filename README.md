@@ -1,4 +1,4 @@
-# 🚀 Welcome to My GitHub Universe! 🌌
+# 🚀 Hi i am Deepankar Gautam Welcome to My GitHub Universe! 🌌
 
 ![Banner](https://your-banner-image-url.com)
 
@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **[Your Name]** – a **Senior Software Engineer** with 3 years of experience at [Newgen Software Company](https://www.newgensoft.com/). I specialize in creating cutting-edge software solutions with a strong emphasis on UI/UX design.
+Hi, I'm **Deepankar Gautam** – a **Senior Software Engineer** with 3 years of experience at [Newgen Software Company](https://www.newgensoft.com/). I specialize in creating cutting-edge software solutions with a strong emphasis on Full Stack Development.
 
 ---
 
@@ -16,8 +16,7 @@ Hi, I'm **[Your Name]** – a **Senior Software Engineer** with 3 years of exper
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
