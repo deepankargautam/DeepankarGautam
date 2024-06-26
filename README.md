@@ -6,9 +6,9 @@
 - 🌱 I’m currently Working as **Full Stack Developer**
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJs, MongoDB,Java,Spring Boot, Mysql**
 - 💬 Ask me about Anything ! I am happy to help.
-- 💻 Deepankar Gautam PortFolio https://ni3deshwal.github.io/ 
+- 💻 Deepankar Gautam PortFolio https://deepankargautam.github.io
 - 📄 Project Asos Clonning https://asos-clone-cw.netlify.app
-- 📄 Know about my experiences [See Resume.](https://drive.google.com/drive/folders/12SpIqoq1hk7PIWn5sBR_1SfUJY1uidDl?usp=share_link)
+- 📄 Know about my experiences
 - 📫 How to reach me **deepankarcs0050@gmail.com**
 
  <p align="left">  
