@@ -1,6 +1,6 @@
 # 🚀 Hi i am Deepankar Gautam Welcome to My GitHub Universe! 🌌
 
-![Banner](https://your-banner-image-url.com)
+![Banner](https://media.licdn.com/dms/image/C4E03AQF5GR2PJXBmUw/profile-displayphoto-shrink_200_200/0/1537461057006?e=2147483647&v=beta&t=SH3X5_pQvgfRsaF4Va2Pnl-NfvXco9HGPW5mGm4kX3Q)
 
 ---
 
