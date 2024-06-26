@@ -13,10 +13,11 @@ Hi, I'm **Deepankar Gautam** – a **Senior Software Engineer** with 3 years of 
 ## 🛠 Technologies & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  
+  <img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
@@ -26,8 +27,8 @@ Hi, I'm **Deepankar Gautam** – a **Senior Software Engineer** with 3 years of 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepankargautam&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepankargautam&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
@@ -37,7 +38,7 @@ Hi, I'm **Deepankar Gautam** – a **Senior Software Engineer** with 3 years of 
 **[Newgen Software Company](https://www.newgensoft.com/)** - Senior Software Engineer  
 *Jan 2021 - Present*
 
-- 🚀 Developed and maintained web applications using React, Node.js, and Django.
+- 🚀 Developed and maintained web applications using React, Java, and Spring Boot.
 - 🧑‍🤝‍🧑 Led a team of 5 developers to design and implement a new user interface for the company's main product.
 - 📈 Improved application performance by 30% through code optimization and refactoring.
 - 🎓 Mentored junior developers and conducted code reviews to ensure high-quality code.
@@ -46,7 +47,7 @@ Hi, I'm **Deepankar Gautam** – a **Senior Software Engineer** with 3 years of 
 
 ## 🎓 Education
 
-- **Bachelor of Technology in Computer Science** from [Your University] (Graduation Year)
+- **Bachelor of Technology in Computer Science** from [AKTU University] (2019)
 
 ---
 
